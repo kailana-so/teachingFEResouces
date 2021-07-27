@@ -23,7 +23,7 @@
     - Find Editor Options and toggle 'Autocomplete'
 
 
-# Tags
+# Tags and comments
 - For all single letter tags type the first letter and `tab` for auto-completion. 
 
         a tab -> <a href=""></a>
@@ -40,6 +40,17 @@
         <div></div>
         <div></div>
 
+- To write [Entities](https://www.w3schools.com/html/html_entities.asp) (also see [Symbols](https://www.w3schools.com/html/html_symbols.asp)) in html:
+
+        &lt; -> 
+        <
+
+        &gt; ->
+        >
+
+- To write a comment in html:
+        
+        <!--  I'm a comment, I won't be seen on the screen (unless your inspecting) -->
 
 # Interesting things to read
 
