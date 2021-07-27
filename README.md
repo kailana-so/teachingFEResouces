@@ -52,7 +52,7 @@
 
 - To write a comment in html:
         
-        <!--  I'm a comment, I won't be seen on the screen (unless your inspecting) -->
+        <!--  I'm a comment, I won't be seen on the screen (unless you're' inspecting) -->
 
 # Interesting things to read
 
