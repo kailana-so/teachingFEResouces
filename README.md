@@ -4,7 +4,7 @@
 #### To inspect page:
 - Chrome: `command option i`
 - FireFox: `command option c`
------------
+<br>
 ## Codepen (mac | windows)
 - html boilerplate markup: `! tab` 
 - undo: `command z` | `control z`
