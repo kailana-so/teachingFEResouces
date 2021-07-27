@@ -21,5 +21,7 @@ To set up completion assist in codepen:
 
 
 ## Browser
+
+#### To inspect page:
 - Chrome: `command option i`
 - FireFox: `command option c`
