@@ -5,6 +5,7 @@
 - Chrome: `command option i`
 - FireFox: `command option c`
 <br>
+
 ## Codepen (mac | windows)
 - html boilerplate markup: `! tab` 
 - undo: `command z` | `control z`
@@ -17,6 +18,7 @@
 - lorem: `lorem tab`
 - find: `command f` | `control f`
 <br> 
+
 - To set up auto-completion assist in codepen: 
     - Navigate to your Settings
     - Scroll down to 'Editor Preferences'
