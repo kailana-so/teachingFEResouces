@@ -18,7 +18,6 @@
 - lorem: `lorem tab`
 - find: `command f` | `control f`
 - jump to end of a line of code: `command + right arrow`
-<br> 
 
 ### Auto-complete:
 - To set up auto-completion assist in codepen: 
