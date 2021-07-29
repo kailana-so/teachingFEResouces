@@ -57,9 +57,9 @@
 
 
 
-# HTML Structure and why it's important:
+# HTML structure and why it's important:
 
-The tags (div, main, aside, footer, etc) we use to wrap around our code blocks give our webpage context and allow browsers and people to navigate and read them easier. 
+The tags (div, main, aside, footer, etc) we use to wrap around our code blocks give our webpage context, allowing browsers and people to navigate and read them easier. 
 
 This is especially important for screenreaders!
 
