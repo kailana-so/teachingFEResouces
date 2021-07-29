@@ -55,12 +55,6 @@
         
         <!--  I'm a comment, I won't be seen on the screen (unless you're' inspecting) -->
 
-# Interesting things to read
-
-- [HTML structure: The Basics](https://www.w3schools.com/html/html_intro.asp)
-- [Semantic html: The Basics](https://dev.to/thibpat/semantic-html-basics-in-5-minutes-ultralearning-2020-1fm0)
-
-
 ## HTML Structure and why it's important:
 
 The tags (div, main, aside, footer, etc) we use to wrap around our code blocks give our webpage context and allow browsers and people to navigate and read them easier. 
@@ -68,4 +62,13 @@ The tags (div, main, aside, footer, etc) we use to wrap around our code blocks g
 This is especially important for screenreaders!
 
 - [Why do we wrap things in div, main, header tags?](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML)
+- [Semantic HTML: the foundation of web accessibility](https://uxdesign.cc/semantic-html-the-foundation-of-web-accessibility-e5bbecad7c17)
 - [Writing HTML Code for Screen Readers: 6 Best Practices](https://medium.com/@OPTASY.com/writing-html-code-for-screen-readers-6-best-practices-bf8f2248318)
+
+# Interesting things to read
+
+- [HTML structure: The Basics](https://www.w3schools.com/html/html_intro.asp)
+- [Semantic html: The Basics](https://dev.to/thibpat/semantic-html-basics-in-5-minutes-ultralearning-2020-1fm0)
+
+
+- [self-closing tags aka empty tags](https://simpledev.io/html/html-self-closing-tags/)
