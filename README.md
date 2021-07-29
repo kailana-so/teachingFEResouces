@@ -20,6 +20,7 @@
 - jump to end of a line of code: `command + right arrow`
 <br> 
 
+### Auto-complete:
 - To set up auto-completion assist in codepen: 
     - Navigate to your Settings
     - Scroll down to 'Editor Preferences'
@@ -68,7 +69,9 @@ This is especially important for screenreaders!
 # Interesting things to read
 
 - [HTML structure: The Basics](https://www.w3schools.com/html/html_intro.asp)
+
 - [Semantic html: The Basics](https://dev.to/thibpat/semantic-html-basics-in-5-minutes-ultralearning-2020-1fm0)
 
+- [Self-closing tags aka empty tags](https://simpledev.io/html/html-self-closing-tags/)
 
-- [self-closing tags aka empty tags](https://simpledev.io/html/html-self-closing-tags/)
+- [HTML table: The Basics](https://www.w3schools.com/tags/tag_table.asp)
