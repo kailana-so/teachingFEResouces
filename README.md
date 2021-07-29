@@ -26,7 +26,7 @@
     - Find Editor Options and toggle 'Autocomplete'
 
 
-# Tags and comments
+# Tags_and_comments
 - For all single letter tags type the first letter and `tab` for auto-completion. 
 
         a tab -> <a href=""></a>
@@ -55,15 +55,25 @@
         
         <!--  I'm a comment, I won't be seen on the screen (unless you're' inspecting) -->
 
-## HTML Structure and why it's important:
+
+
+# HTML Structure and why it's important:
 
 The tags (div, main, aside, footer, etc) we use to wrap around our code blocks give our webpage context and allow browsers and people to navigate and read them easier. 
 
 This is especially important for screenreaders!
 
 - [Why do we wrap things in div, main, header tags?](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML)
-- [Semantic HTML: the foundation of web accessibility](https://uxdesign.cc/semantic-html-the-foundation-of-web-accessibility-e5bbecad7c17)
+- [Semantic HTML: The foundation of web accessibility](https://uxdesign.cc/semantic-html-the-foundation-of-web-accessibility-e5bbecad7c17)
 - [Writing HTML Code for Screen Readers: 6 Best Practices](https://medium.com/@OPTASY.com/writing-html-code-for-screen-readers-6-best-practices-bf8f2248318)
+
+# CSS - cascading style sheets:
+
+There are three types of selector: Element, Class and ID, and styles are read top to bottom, least specifc to most specific.
+- [CSS Examples](https://www.w3schools.com/css/css_examples.asp)
+
+Also spelling is American!
+
 
 # Interesting things to read
 
@@ -74,3 +84,5 @@ This is especially important for screenreaders!
 - [Self-closing tags aka empty tags](https://simpledev.io/html/html-self-closing-tags/)
 
 - [HTML table: The Basics](https://www.w3schools.com/tags/tag_table.asp)
+
+
