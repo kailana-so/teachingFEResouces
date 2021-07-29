@@ -11,7 +11,7 @@
 - undo: `command z` | `control z`
 - redo: `command shift z` | `control y`
 - save: `command s` | `control s`
-- comment/comment out: `command /`
+- comment/comment out: `command /` | `control /`
 - indent line right: `control [` or `tab`
 - indent line left: `control ]`
 - new pen: `command p`
@@ -53,7 +53,7 @@
 
 - To write a comment in html:
         
-        <!--  I'm a comment, I won't be seen on the screen (unless you're' inspecting) -->
+        <!--  I'm a comment, I won't be seen on the screen (unless you're inspecting) -->
 
 
 
@@ -69,7 +69,7 @@ This is especially important for screenreaders!
 
 # CSS - cascading style sheets:
 
-There are three types of selector: Element, Class and ID, and styles are read top to bottom, least specifc to most specific.
+There are three types of selector: Element, Class and ID, and styles are read top to bottom, least specifc to most specific (ie.trunk to leaf).
 - [CSS Examples](https://www.w3schools.com/css/css_examples.asp)
 
 Also spelling is American!
