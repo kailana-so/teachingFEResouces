@@ -25,6 +25,10 @@
     - Scroll down to 'Editor Preferences'
     - Find Editor Options and toggle 'Autocomplete'
 
+# Atom
+- install emmet (for shortcuts like `! tab`)
+
+
 
 # Tags_and_comments
 - For all single letter tags type the first letter and `tab` for auto-completion. 
@@ -55,7 +59,11 @@
         
         <!--  I'm a comment, I won't be seen on the screen (unless you're inspecting) -->
 
+- To select all (cascading):
 
+        * {
+             css rule block
+        }
 
 # HTML structure and why it's important:
 
@@ -86,3 +94,9 @@ Also spelling is American!
 - [HTML table: The Basics](https://www.w3schools.com/tags/tag_table.asp)
 
 
+# Links
+
+- [Normalize](http://necolas.github.io/normalize.css/)
+- [Box Model Example](https://codepen.io/GAmarketing/pen/eYYjQXQ)
+- [Box Sizing](https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing)
+- [Inline Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Inline_elements)
