@@ -18,6 +18,7 @@
 - lorem: `lorem tab`
 - find: `command f` | `control f`
 - jump to end of a line of code: `command + right arrow`
+- refreah `command r` | `control r`
 
 ### Auto-complete:
 - To set up auto-completion assist in codepen: 
@@ -27,7 +28,6 @@
 
 # Atom
 - install emmet (for shortcuts like `! tab`)
-
 
 
 # Tags_and_comments
@@ -82,7 +82,6 @@ There are three types of selector: Element, Class and ID, and styles are read to
 
 Also spelling is American!
 
-
 # Interesting things to read
 
 - [HTML structure: The Basics](https://www.w3schools.com/html/html_intro.asp)
@@ -93,10 +92,20 @@ Also spelling is American!
 
 - [HTML table: The Basics](https://www.w3schools.com/tags/tag_table.asp)
 
-
-# Links
-
 - [Normalize](http://necolas.github.io/normalize.css/)
+
 - [Box Model Example](https://codepen.io/GAmarketing/pen/eYYjQXQ)
+
 - [Box Sizing](https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing)
+
 - [Inline Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Inline_elements)
+
+- [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+- [Flexbox: align-items and align-content](https://betterprogramming.pub/flexbox-align-items-and-align-content-a60b6f8451e3)
+
+- [Websafe colors](https://htmlcolorcodes.com/color-chart/web-safe-color-chart/)
+
+- [All About display:grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+
+- [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
