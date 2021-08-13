@@ -109,3 +109,5 @@ Also spelling is American!
 - [All About display:grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 - [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+
+- [CSS tricks - banckground images and text](https://css-tricks.com/design-considerations-text-images/)
