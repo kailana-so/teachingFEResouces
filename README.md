@@ -26,11 +26,11 @@
     - Scroll down to 'Editor Preferences'
     - Find Editor Options and toggle 'Autocomplete'
 
-# Atom
+# Atom:
 - install emmet (for shortcuts like `! tab`)
 
 
-# Tags_and_comments
+# Tags and comments:
 - For all single letter tags type the first letter and `tab` for auto-completion. 
 
         a tab -> <a href=""></a>
@@ -82,6 +82,52 @@ There are three types of selector: Element, Class and ID, and styles are read to
 
 Also spelling is American!
 
+# Functions, the syntax:
+A function is a reusable block of code that performs a series of tasks or calculates a value a
+innumerable number of times
+> It is a mini program that takes an input and returns an output
+
+        function add(numOne, numTwo) {
+                return numOne + numTwo
+        } 
+        console.log(add(20,30))
+        // expected 50
+        console.log(add(10,80))
+        // expected 90
+
+### There are four parts to a function:
+#### name
+- The name or declaration of the function
+#### params
+- The names of each argument passed into the function
+#### statements
+- The body of the function, aka the statements comprising the body of the code block
+#### callsite
+- The request to run the function
+
+Together the name, ( parameters ), { statements } and callsite() make up a complete function.
+
+        name(parameters){
+                statements
+        } 
+        callsite()
+
+# Arrays, basically:
+
+An array is a data type that consists of an ordered collection or list of items, starting at 0.
+
+        let fruits = ["apple", "orange", "banana"]
+
+        // the index of each fruit item is as follows:
+
+        fruits[0]
+        // apple
+        fruits[1]
+        // orange
+        fruits[2]
+        // banana
+
+
 # Interesting things to read
 
 - [HTML structure: The Basics](https://www.w3schools.com/html/html_intro.asp)
@@ -111,3 +157,7 @@ Also spelling is American!
 - [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 - [CSS tricks - banckground images and text](https://css-tricks.com/design-considerations-text-images/)
+
+- [JavaScript Functions — Understanding The Basics](https://codeburst.io/javascript-functions-understanding-the-basics-207dbf42ed99)
+
+- [Understanding arrays in JavaScript](https://medium.com/@gemma.stiles/understanding-arrays-in-javascript-38975e3378b7)
