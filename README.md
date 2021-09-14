@@ -161,3 +161,5 @@ An array is a data type that consists of an ordered collection or list of items,
 - [JavaScript Functions — Understanding The Basics](https://codeburst.io/javascript-functions-understanding-the-basics-207dbf42ed99)
 
 - [Understanding arrays in JavaScript](https://medium.com/@gemma.stiles/understanding-arrays-in-javascript-38975e3378b7)
+
+- [Javascript: let’s meet the event object](https://medium.com/launch-school/javascript-lets-talk-about-events-572ecce968d0)
